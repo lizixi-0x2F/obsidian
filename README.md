@@ -1,2 +1,2 @@
 # obsidian
-通过Arduino复刻Pong游戏
+通过Arduino uno复刻Pong游戏
